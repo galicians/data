@@ -1,4 +1,4 @@
-[
+
     {
       id: 1,
       productName: 'Leaf Rake',
@@ -49,4 +49,4 @@
       quantityInStock: 12,
       supplierIds: [9, 10]
     }
-  ]
+  
