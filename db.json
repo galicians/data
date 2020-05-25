@@ -1,5 +1,5 @@
 
-{"products": {
+{
       "id": "1",
       "productName": "Leaf Rake",
       "productCode": "GDN-0011",
@@ -7,5 +7,5 @@
       "price": "19.95",
       "categoryId": "1",
       "quantityInStock": "15"
-    }
+    
 }
